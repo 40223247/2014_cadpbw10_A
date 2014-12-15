@@ -1,3 +1,6 @@
 1-a
+<<<<<<< HEAD
 volume= 142018 mm^3 
 Surface Area= 28781.7 mm^2
+=======
+>>>>>>> e6c167cc0e5f6ffc954ae3709e4b59a4a04d6d46
