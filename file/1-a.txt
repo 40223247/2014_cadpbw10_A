@@ -1,3 +1,3 @@
 1-a
-volume= 142017 mm^3 
-Surface Area= 28780.7 mm^2
+volume= 141634 mm^3 
+Surface Area= 28740.4 mm^2
